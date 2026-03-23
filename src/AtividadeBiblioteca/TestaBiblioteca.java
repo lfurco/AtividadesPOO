@@ -5,7 +5,6 @@ import java.time.LocalDateTime;
 public class TestaBiblioteca {
 
     public static void main(String[] args) {
-
         // Criar leitor
         Leitor l1 = new Leitor(1, "Lucas");
 
