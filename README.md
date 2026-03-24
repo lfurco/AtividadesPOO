@@ -2,7 +2,7 @@
 
 Repositório com exercícios práticos de Programação Orientada a Objetos (POO) em Java.
 
-## 🚀 Conteúdo
+## 🔹 Conteúdo
 
 As atividades abordam conceitos fundamentais de POO:
 
